@@ -1,0 +1,6 @@
+<?
+echo '
+asdfasdf
+asdfasdfa
+';
+?>
